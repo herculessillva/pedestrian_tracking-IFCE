@@ -1,0 +1,10 @@
+# Virtual envs
+*.env*
+
+# Yolo configuration
+*.weights*
+*.names*
+*.conf*
+
+# Others
+*__pycache__*
